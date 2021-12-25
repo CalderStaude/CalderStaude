@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hello World 👋
+##Welcome to my GitHub
+
+🔬I'm currently a Master's studnet at the Iniversity of Califorina, Irvine studing Computer Engineering. 
 
 <!--
 **CalderStaude/CalderStaude** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
