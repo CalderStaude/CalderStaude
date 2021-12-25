@@ -1,4 +1,4 @@
-# Hello World 👋
+# Hello World 👋 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 ### Welcome to my GitHub
 
 🔬I'm currently a Master's studnet at the Iniversity of Califorina, Irvine studing Computer Engineering. 
