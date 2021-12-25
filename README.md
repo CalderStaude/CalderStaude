@@ -5,18 +5,7 @@
 
 <p>🔭 Currently working on my embedded systems projects.<br>
 🌱 Completing my Masters of Science in Computer Engineering.<br>
-👨‍🏫 Working as Graduate TA teaching C/C++, Electronics, ML and more!</p>
-
-<h3>Things I code with</h3>
-<p>
-  <img alt="Python" src="hhttps://img.shields.io/badge/-Python-45b8d8?style=flat-square&logo=python&logoColor=white" />
-  <img alt="C" src="https://img.shields.io/badge/-C-43853d?style=flat-square&logo=C&logoColor=white" /> 
-  <img alt="C++" src="https://img.shields.io/badge/-C%2B%2B-green" />
-  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-</p>
-
-
-
+💼 Working as Graduate TA teaching C/C++, Electronics, ML and more!</p>
 
 <h4>More About Me:</h4>
 <a href="https://www.linkedin.com/in/calder-staude/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
