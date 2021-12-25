@@ -1,7 +1,11 @@
 # Hello World <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 ### Welcome to my GitHub
 
-🔬I'm currently a Master's student at the University of California, Irvine studying Computer Engineering.  I enjoy developing firmware and working on embedded systems.  
+🔬I'm currently a Master's student at the University of California, Irvine studying Computer Engineering.  I enjoy developing firmware and working on embedded systems.
+
+test12
+test231
+test12
 
 🔭 Currently working on my embedded systems projects.
 🌱 Completing my Masters of Science in Computer Engineering.
