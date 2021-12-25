@@ -3,8 +3,8 @@
 
 🔬I'm currently a Master's studnet at the Iniversity of Califorina, Irvine studing Computer Engineering. 
 
-🔭 Currently working on my embedded systems projects
-🌱 Completing my Masters of Science in Computer Engineering
+🔭 Currently working on my embedded systems projects.
+🌱 Completing my Masters of Science in Computer Engineering.
 👨‍🏫 Working as Graduate TA, teaching C/C++, Electronics, ML and more! 
 
 
