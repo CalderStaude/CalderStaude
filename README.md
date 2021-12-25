@@ -3,10 +3,9 @@
 
 🔬I'm currently a Master's student at the University of California, Irvine studying Computer Engineering.  I enjoy developing firmware and working on embedded systems.
 
-🔭 Currently working on my embedded systems projects.
-🌱 Completing my Masters of Science in Computer Engineering.
-👨‍🏫 Working as Graduate TA teaching C/C++, Electronics, ML and more! 
-
+<p>🔭 Currently working on my embedded systems projects.<br>
+🌱 Completing my Masters of Science in Computer Engineering.<br>
+👨‍🏫 Working as Graduate TA teaching C/C++, Electronics, ML and more!</p>
 
 <h3>Things I code with</h3>
 <p>
