@@ -1,4 +1,3 @@
-# Hello World <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="10px">
 ### Welcome to my GitHub
 
 🔬I'm currently a Master's student at the University of California, Irvine studying Computer Engineering.  I enjoy developing firmware and working on embedded systems.
