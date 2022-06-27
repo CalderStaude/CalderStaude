@@ -3,8 +3,7 @@
 🔬I'm currently a Master's student at the University of California, Irvine studying Computer Engineering.  I enjoy developing firmware and working on embedded systems.
 
 <p>🔭 Currently working on my embedded systems projects.<br>
-🌱 Completing my Masters of Science in Computer Engineering.<br>
-💼 Working as Graduate TA teaching C/C++, Electronics, ML and more!</p>
+💼 Working at Seagate as a Firmware Engineer</p>
 
 <h4>More About Me:</h4>
 <a href="https://www.linkedin.com/in/calder-staude/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
